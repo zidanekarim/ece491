@@ -1,0 +1,6 @@
+[submodule "gr-ieee802-11"]
+	path = gr-ieee802-11
+	url = https://github.com/bastibl/gr-ieee802-11
+[submodule "gr-foo"]
+	path = gr-foo
+	url = https://github.com/bastibl/gr-foo
