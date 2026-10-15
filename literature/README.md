@@ -5,3 +5,5 @@
 
 [WiGrus: A Wifi-Based Gesture Recognition System Using Software-Defined Radio
 ](https://ieeexplore.ieee.org/document/8832182)
+
+[WiFi Sensing on the Edge: Signal Processing Techniques and Challenges for Real-World Systems](https://ieeexplore.ieee.org/document/9900419)
